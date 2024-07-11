@@ -10,4 +10,5 @@ Using a database made up of fantasy soccer players, this code provides tools to 
 5. Determine the player with the most goals
 6. Determine total points for all players and print out the values
 7. Exit
+
 This program was designed and implemented using OOP principles for my introductory programming course (UMass Amherst ECE122).
