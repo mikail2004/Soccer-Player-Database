@@ -2,7 +2,7 @@
 A simple system to evaluate points for a fantasy soccer team (analytics).
 
 ## Description
-Using a database made up of fantasy soccer players, this code provides tools to extract insights from said entries. There are internal functions to 
+Using a database made up of fantasy soccer players, this code provides tools to extract insights from said entries. There are internal functions to: 
 1. List all players
 2. List all the players with at least a specific number of goals
 3. List all players in a specific league
